@@ -2,7 +2,7 @@
 layout: page
 subheadline:  "Rebranding and plugin support"
 title:  "Corona transition to Solar2D"
-permalink: "/corona-to-solar2d-transition/"
+permalink: "/corona-to-solar2d/"
 categories:
     - solar2d
 tags:

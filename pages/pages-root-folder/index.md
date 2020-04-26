@@ -9,7 +9,7 @@ header:
   image_fullwidth: header1920x128.jpg
 widget1:
   title: "Corona to Solar2D transition"
-  url: '/corona-to-solar2d-transition/'
+  url: '/corona-to-solar2d/'
   image: logo_solar2d.png
   text: 'Details on transitioning from Corona marketplace to Solar2D.'
 widget2:
