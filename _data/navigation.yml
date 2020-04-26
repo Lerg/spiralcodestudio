@@ -1,0 +1,23 @@
+- title: Start
+  url: "/"
+  side: left
+
+- title: Solar2D Plugins
+  url: "/solar2d/plugins"
+  side: left
+
+- title: Defold Extensions
+  url: "/defold/extensions"
+  side: left
+
+- title: Documentation
+  url: "https://docs.spiralcodestudio.com"
+  side: left
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right

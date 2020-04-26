@@ -1,0 +1,16 @@
+- menu_name: "Resources"
+
+- name: "Patreon"
+  url: "https://patreon.com/lerg"
+  class: "sitemap-link"
+  title: "Support on Patreon"
+
+- name: "Solar2D"
+  url: "https://solar2d.com"
+  class: "sitemap-link"
+  title: "Solar2D game engine"
+
+- name: "Defold"
+  url: "https://defold.com"
+  class: "sitemap-link"
+  title: "Defold game engine"
