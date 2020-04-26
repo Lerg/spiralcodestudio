@@ -14,12 +14,12 @@ widget1:
   text: 'Details on transitioning from Corona marketplace to Solar2D.'
 widget2:
   title: "Solar2D plugins"
-  url: '/solar2d/plugins'
+  url: '/solar2d/plugins/'
   image: logo_solar2d.png
   text: 'Plugins for the Solar2D game engine (Corona).'
 widget3:
   title: "Defold extensions"
-  url: '/defold/extensions'
+  url: '/defold/extensions/'
   image: logo_defold.png
   text: 'Extensions for the Defold game engine.'
 #

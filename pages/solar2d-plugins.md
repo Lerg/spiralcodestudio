@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: "Solar2D Plugins"
-permalink: "/solar2d/plugins"
+permalink: "/solar2d/plugins/"
 categories:
     - solar2d
 ---

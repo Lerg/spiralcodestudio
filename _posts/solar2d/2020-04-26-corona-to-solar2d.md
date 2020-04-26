@@ -2,7 +2,7 @@
 layout: page
 subheadline:  "Rebranding and plugin support"
 title:  "Corona transition to Solar2D"
-permalink: "/corona-to-solar2d-transition"
+permalink: "/corona-to-solar2d-transition/"
 categories:
     - solar2d
 tags:
@@ -25,7 +25,7 @@ I think Solar2D is going in the right direction and together we can make great a
 
 I hope you agree to support me so I can continue supporting all my plugins, fixing bugs and developing new features.
 
-Thanks,<bre>
+Thanks,<br>
 Sergey Lerg
 
 {: .t60 }

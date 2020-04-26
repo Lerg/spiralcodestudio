@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: "Defold Extensions"
-permalink: "/defold/extensions"
+permalink: "/defold/extensions/"
 categories:
     - defold
 ---
