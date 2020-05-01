@@ -17,7 +17,7 @@ All the plugins will continue to work properly with Solar2D, however a significa
 
 I have decided not to go with the same approach as before charging for every plugin some amount each year. Instead just like Solar2D with it's crowdfunding I want to be closer to my customers, to form a community where everyone can use all my plugins and you can decide which new plugins do you want to be developed.
 
-Therefore I am introducing a Patreon based access to all of my plugins. With a pledge $5 a month or more you can use all my plugins, a custom URL is needed for `build.settings`, see [build.settings modification](#buildsettings-modification) below for details.
+Therefore I am introducing a [Patreon](https://www.patreon.com/lerg) based access to all of my plugins. With a pledge $5 a month or more you can use all my plugins, a custom URL is needed for `build.settings`, see [build.settings modification](#buildsettings-modification) below for details.
 
 No more wandering if the plugin is right for you or not - just support me on Patreon, try all the plugins you are interested in and in case you don't like them - cancel your Patreon support. It's that easy, no strings attached.
 
@@ -30,7 +30,7 @@ Sergey Lerg
 
 ## build.settings modification ##
 
-For the new system integration you would need your patreon email address and a special access key, that you get when you make a pledge (2nd tier or higher is required).
+For the new system integration you would need your [Patreon](https://www.patreon.com/lerg) email address and a special access key, that you get when you make a pledge (2nd tier or higher is required).
 
 Paste that block at the top of your `build.settings` file, before the `settings` table.
 
@@ -62,7 +62,7 @@ settings = {
 
 That function generates URLs for each platform (iOS, Android...) with proper authentication parameters when your project is loaded in Solar2D Simulator (Corona Simulator).
 
-Here is a sample `build.settings` file https://github.com/Lerg/plugins-sample-qrscanner/blob/master/build.settings
+Here is a sample `build.settings` file [https://github.com/Lerg/plugins-sample-qrscanner/blob/master/build.settings](https://github.com/Lerg/plugins-sample-qrscanner/blob/master/build.settings)
 
 {: .t60 }
 
