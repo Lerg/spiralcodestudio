@@ -42,7 +42,7 @@ categories:
     <div class="medium-4 columns">
         <a href="https://docs.spiralcodestudio.com/plugin/facebook/">
             <img src="{{ site.urlimg }}solar2d/facebook.jpg" alt="">
-            <p>Facebook</p>
+            <p>Facebook SDK</p>
         </a>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
@@ -58,7 +58,7 @@ categories:
     <div class="medium-4 columns">
         <a href="https://docs.spiralcodestudio.com/plugin/vibrator/">
             <img src="{{ site.urlimg }}solar2d/vibrator.png" alt="">
-            <p>Vibrator</p>
+            <p>Vibrator and Haptic feedback</p>
         </a>
     </div><!-- /.medium-4.columns -->
 
@@ -72,9 +72,16 @@ categories:
 
 <div class="row t30">
     <div class="medium-4 columns">
-        <a href="https://docs.spiralcodestudio.com/plugin/vk/">
-            <img src="{{ site.urlimg }}solar2d/vk.png" alt="">
-            <p>VK</p>
+        <a href="https://docs.spiralcodestudio.com/plugin/microphone/">
+            <img src="{{ site.urlimg }}solar2d/microphone.jpg" alt="">
+            <p>Microphone</p>
+        </a>
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+        <a href="https://docs.spiralcodestudio.com/plugin/sox/">
+            <img src="{{ site.urlimg }}solar2d/sox.jpg" alt="">
+            <p>SoX Audio Tools</p>
         </a>
     </div><!-- /.medium-4.columns -->
 
@@ -82,6 +89,15 @@ categories:
         <a href="https://docs.spiralcodestudio.com/plugin/mousecursor/">
             <img src="{{ site.urlimg }}solar2d/mousecursor.png" alt="">
             <p>Mousecursor</p>
+        </a>
+    </div><!-- /.medium-4.columns -->
+</div><!-- /.row -->
+
+<div class="row t30">
+    <div class="medium-4 columns">
+        <a href="https://docs.spiralcodestudio.com/plugin/vk/">
+            <img src="{{ site.urlimg }}solar2d/vk.png" alt="">
+            <p>VK SDK</p>
         </a>
     </div><!-- /.medium-4.columns -->
 
