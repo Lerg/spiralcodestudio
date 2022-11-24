@@ -5,4 +5,4 @@ permalink: "/privacy-policy-laser-puzzle/"
 ---
 ##Privacy Policy for Laser Puzzle
 
-The "Laser Puzzle" mobile game does not collect any personal information.
+The "Laser Puzzle" mobile game collects minimal personal information for analytics purposes as well as for showing personalized ads.
